@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a6ee50c6cfff899ddbbe214b",
+  "owner": "yrfcwhsgng",
+  "repo": "page-0839297cabcb1f633c5c5049",
+  "title": "TERO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0839297cabcb1f633c5c5049",
+      "a": "TERO",
+      "b": "2027最新官网",
+      "entity": "TERO",
+      "brand": "TERO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1394d0875c54a85293c6b1703fa1775f6b9d1cb2915844ddd7b5887abcb84178",
+      "content": {
+        "primary_entity": "TERO",
+        "keyword1": "TERO",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择匹配的 TERO 客户端，Windows、macOS、Android、iOS 与路由器均有对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "各平台客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与月流量挑选合适套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，提供基础版、旗舰版与团队版三档方案，分别对应 3 台、5 台与 20 台设备并发，月流量从 100GB 到 1000GB 逐级提升，可按月付费或按年付享受更低均价。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度，快速锁定合适的 TERO 套餐。",
+          "AI_FEATURES_TITLE": "套餐选择与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量直接对应。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分档，轻度浏览选基础版，多设备影音选旗舰版。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年均价低于月付，长期使用更节省。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "三步完成 TERO 的套餐选择、适配确认与订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "TERO 为跨境访问、流媒体与游戏加速提供多档订阅方案，依据设备数量与月流量选择版本，参考客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选，按设备按流量",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_2": "月流量 100GB 起逐级提升",
+          "AI_HIGHLIGHT_3": "支持主流系统客户端导入",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 流量与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的终端系统与并发设备数，再准备对应的客户端环境。",
+          "AI_STEP_TEXT_3": "参照各平台客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅导入",
+          "AI_VISUAL_TITLE": "TERO 套餐与客户端一览",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备用户建议按同时在线数量选择，超出限制会导致部分设备离线。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览与视频建议旗舰版，多人共享或大流量下载可选团队版。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用建议直接选年付，短期需求可先按月订阅。",
+          "AI_FAQ_ANSWER_4": "旗舰版针对游戏场景做了 IPLC 专线优化，节点延迟表现更好。普通浏览与视频需求，基础版和团队版也能满足。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接即可，Windows 与 macOS 可用 Clash 类客户端，Android 与 iOS 有对应应用，路由器可参考 OpenWrt 插件文档配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "TERO 套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--s-zn6a77hswienw.com",
+    "host": "xn--s-zn6a77hswienw.com"
+  },
+  "file_hashes": {
+    "index.html": "1e8038d44ec8c7fc29ba348d905ddd80f0e8e1b4f67544cef8dfc4bbe1fade14",
+    "sitemap.xml": "408c7a6e6d5dde2e23b049c6065f0b7aad37e9f4eff8d17f400fcede0ff70078",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c4c9c4c292100dc7d21555e44e0e57fca0b60a8048094d155470d46760156340",
+    "robots.txt": "80a6f60bfb535f5dfe78a85255d4fd1c7b31b96d708553b8a868eeaf9a5766e6",
+    "8c21680e7f2d361d8840a7a9a11014f6.txt": "56b80207316ed5a700ce6231d180e264a52756f5986ed0e0d7a65a79e56d6905"
+  },
+  "revision": "48a3ddf6e30d1c1bf5510a4e2133965a3b1a823974285ea269063a1a05ee8155"
+}
